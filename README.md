@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hello. :wave:
+I am Zeal Young. A self-educated developer.
 
 <!--
 **QuiteZeal/quitezeal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +15,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+#### :books: Learning
+Python, JQuery, Bootstrap, SQL, etc.
+But it's not limited to the above, If I need to know, I will to get it.
+
+#### :computer: Working on 
+I am building my own blog engine `Spring Fly` with python flask framework.
+
+
