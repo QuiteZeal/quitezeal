@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 #### :books: Learning
-Python, JQuery, Bootstrap, SQL, etc.
+React, MongoDB, and essential knowledge for web and database.
 But it's not limited to the above, If I need to know, I will to get it.
 
 #### :computer: Working on 
