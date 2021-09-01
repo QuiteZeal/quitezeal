@@ -4,7 +4,7 @@ I am Zeal Young. A self-educated developer.
 <!--
 **QuiteZeal/quitezeal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Here are some ideas to get you started:and 
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -16,10 +16,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 #### :books: Learning
-React, MongoDB, and essential knowledge for web and database.
+GoLang, and others...
 But it's not limited to the above, If I need to know, I will to get it.
 
-#### :computer: Working on 
-I am building my own blog engine `Spring Fly` with python flask framework.
+#### :computer: Working on
+Learning and Learn.
 
 
